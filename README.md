@@ -7,9 +7,13 @@
 💬 Ask me about software or coffee  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I tattooed a few of my own tattoos  
-<!-- - 📫 How to reach me:   -->
-
 📍 Based in 🇧🇷
+
+
+<a href="https://www.linkedin.com/in/rodrigo-eiti-kimura/">
+  <img align="left" alt="Rodrigo's LinkedIN" width="36px" src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/main/assets/linkedin.svg" />
+</a>
+
 
 ## Things I code with
 ![Python](https://img.shields.io/badge/python-3670A0?style=Flat-square&logo=python&logoColor=ffdd54)
