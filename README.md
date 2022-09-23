@@ -1,4 +1,8 @@
-### Hi there 👋
+# Rodrigo Eiti Kimura 🖖
+
+🪪 Professional software developer, non-professional software enthusiast, lifelong <s>learner</s> coffee drinker ☕ 
+
+📍 Based in 🇧🇷
 
 <!--
 **rodrigokimura/rodrigokimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
