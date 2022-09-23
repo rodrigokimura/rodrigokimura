@@ -1,4 +1,6 @@
-# Rodrigo Eiti Kimura 🖖
+# Hi there  <img src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/889e27d043b1257040ecc8d5b8a08cb55f85430d/assets/wave.gif" width="36px" height="30px" />
+
+I'm Rodrigo Kimura  
 
 🪪 Professional software developer, non-professional software enthusiast, lifelong <s>learner</s> coffee drinker ☕ 
 
@@ -9,7 +11,7 @@
 ⚡ Fun fact: I tattooed a few of my own tattoos  
 📍 Based in 🇧🇷
 
-[<img align="left" alt="Rodrigo's LinkedIN" width="36px" src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/main/assets/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-eiti-kimura/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-eiti-kimura/)
 
 ## Things I code with
 
@@ -36,16 +38,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=Flat-square&logo=Arduino&logoColor=white)
 
 <!--
-**rodrigokimura/rodrigokimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Badges I used for this page: https://github.com/Ileriayo/markdown-badges
 -->
