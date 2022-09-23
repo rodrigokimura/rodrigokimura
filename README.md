@@ -9,9 +9,7 @@
 ⚡ Fun fact: I tattooed a few of my own tattoos  
 📍 Based in 🇧🇷
 
-[<img align="left" alt="Rodrigo's LinkedIN" width="36px" src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/main/assets/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-eiti-kimura/)
-
----
+[<img align="left" alt="Rodrigo's LinkedIN" width="36px" src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/main/assets/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-eiti-kimura/)  
 
 ## Things I code with
 
