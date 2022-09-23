@@ -11,8 +11,10 @@
 
 [<img align="left" alt="Rodrigo's LinkedIN" width="36px" src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/main/assets/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-eiti-kimura/)
 
+---
 
 ## Things I code with
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=Flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=Flat-square&logo=kotlin&logoColor=white)
