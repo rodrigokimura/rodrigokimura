@@ -7,7 +7,6 @@ I'm Rodrigo Kimura
 🔭 I’m currently working on tools to make my life/workflow easier  
 🌱 I’m currently learning about tkinter for a desktop client app.  
 💬 Ask me about software or coffee  
-😄 Pronouns: he/him  
 ⚡ Fun fact: I tattooed a few of my own tattoos  
 📍 Based in 🇧🇷
 
