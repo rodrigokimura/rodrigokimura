@@ -5,10 +5,10 @@ I'm Rodrigo Kimura
 🪪 Professional software developer, non-professional software enthusiast, lifelong <s>learner</s> coffee drinker ☕ 
 
 🔭 I’m currently working on tools to make my life/workflow easier  
-🌱 I’m currently learning about tkinter for a desktop client app.  
-💬 Ask me about software or coffee  
+🌱 I’m currently learning about tkinter for a desktop client app  
+💬 Ask me about python or coffee  
 ⚡ Fun fact: I tattooed a few of my own tattoos  
-📍 Based in 🇧🇷
+📍 Based in 🇧🇷  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-eiti-kimura/)
 
