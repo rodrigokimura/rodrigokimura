@@ -1,6 +1,6 @@
 # Hi there  <img src="https://raw.githubusercontent.com/rodrigokimura/rodrigokimura/889e27d043b1257040ecc8d5b8a08cb55f85430d/assets/wave.gif" width="36px" height="30px" />
 
-I'm Rodrigo Kimura  
+I'm Rodrigo Kimura   
 
 🪪 Professional software developer, non-professional software enthusiast, lifelong <s>learner</s> coffee drinker ☕ 
 
