@@ -5,7 +5,7 @@ I'm Rodrigo Kimura
 🪪 Professional software developer, non-professional software enthusiast, lifelong <s>learner</s> coffee drinker ☕ 
 
 🔭 I’m currently working on tools to make my life/workflow easier  
-🌱 I’m currently learning about tkinter for a desktop client app  
+🌱 I’m currently learning about microcontrollers for a custom keyboard  
 💬 Ask me about python or coffee  
 ⚡ Fun fact: I tattooed a few of my own tattoos  
 📍 Based in 🇧🇷  
